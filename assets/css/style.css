@@ -1,0 +1,75 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+nav .logo{
+    font-size: 40px;
+    font-weight: bold;
+}
+
+header{
+    height: 737px;
+    background-image: url(../img/IMG_1849_2.jpg);
+    background-size: cover;
+}
+header h1{
+    text-align: center;
+    font-family: 'Noto Sans TC', sans-serif;
+    color: #ffffff;
+    font-weight: bold;
+    padding-top: 550px;
+}    
+header hr{
+    border: 2px solid;
+    color: #ffffff;
+    width: 150px;
+}
+section h4{
+    text-align: center;
+    font-weight: bold;
+
+}
+section hr{
+    border: 1px solid;
+    color: #000000;
+    width: 100px;
+}
+section p{
+    text-align: left;
+}
+.experience p{
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+    margin-top: 70px;
+}
+.experience img{
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    
+}
+.experience hr{
+    border: 1px solid;
+    color: #000000;
+    width: 100px;
+}
+
+.jobs{
+    background-color: #5cb85c;
+}
+.jobs .title-jobs{
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+    margin-top: 70px;
+}
+.jobs hr{
+    border: 1px solid;
+    color: #000000;
+    width: 100px;
+}
+
+footer{
+    background-color: #5cb85c;
+}
