@@ -10,8 +10,9 @@ nav .logo{
 
 header{
     height: 737px;
-    background-image: url(../img/IMG_1849_2.jpg);
+    background-image: url(../img/bass.jpg);
     background-size: cover;
+    background-position: center center;
 }
 header h1{
     text-align: center;
@@ -109,6 +110,3 @@ footer p{
    
 
 }
-/*footer i{
-    margin-right: 20px;
-}*/

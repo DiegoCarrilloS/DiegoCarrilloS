@@ -16,6 +16,7 @@ $(function(){
     $(document).ready(function () {
         $('body').fadeIn(6000).removeClass('body');
     });
+    
     $('[data-toggle="popover"]').popover()
     
     $('[data-toggle="tooltip"]').tooltip()
